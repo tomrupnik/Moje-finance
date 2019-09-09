@@ -1,0 +1,27 @@
+[
+    {
+        "namen": "vecerja",
+        "znesek": "30",
+        "mesec": "januar"
+    },
+    {
+        "namen": "sladoled",
+        "znesek": "2",
+        "mesec": "januar"
+    },
+    {
+        "namen": "izlet",
+        "znesek": "50",
+        "mesec": "februar"
+    },
+    {
+        "namen": "hla\u010de",
+        "znesek": "55",
+        "mesec": "maj"
+    },
+    {
+        "namen": "sola",
+        "znesek": "20",
+        "mesec": "september"
+    }
+]

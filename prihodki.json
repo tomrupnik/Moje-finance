@@ -1,0 +1,17 @@
+[
+    {
+        "vir": "placa",
+        "znesek": "1000",
+        "mesec": "januar"
+    },
+    {
+        "vir": "nagrada",
+        "znesek": "100",
+        "mesec": "januar"
+    },
+    {
+        "vir": "zepnina",
+        "znesek": "50",
+        "mesec": "junij"
+    }
+]
