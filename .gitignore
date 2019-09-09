@@ -1,0 +1,9 @@
+_build
+__pycache__
+_mainted-*
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.syctex.gz
+*.pyc
